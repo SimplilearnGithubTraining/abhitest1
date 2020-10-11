@@ -1,3 +1,4 @@
 New
 addition
 new add
+New addition from cloned repo
