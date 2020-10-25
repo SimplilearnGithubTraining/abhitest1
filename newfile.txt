@@ -1,2 +1,1 @@
-Git tutorial
-Complete tutorial
+Git and Github Complete tutorial
